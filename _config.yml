@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1899642
+color:
+  saturation: 0.2903226
+  lightness: 0.06630825
+  brandStrength: 0.2283839
+  brandColors:
+    - '#5DEDC2'
+    - '#45B191'
+    - '#1C4539'
+    - '#389076'
+    - '#53D4AE'
+  rhythmicContrast: 0.5698925
+name: James Madx
